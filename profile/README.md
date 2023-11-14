@@ -1,4 +1,4 @@
-# Open Oceans on Github! 🌊🔍
+# [Open Oceans on Github!](https://openoceans.xyz/) 🌊🔍
 
 Dive into a world of ocean science. 🌏 My hope is to bring together a treasure trove of tools and open ocean datasets, making them easily accessible for the entire ocean science community. 🌐 Here, you'll find a mix of tools and datasets – some crafted by me, and others generously contributed by ocean enthusiasts from all around. 🤝
 
